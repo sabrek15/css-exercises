@@ -10,15 +10,27 @@ body {
 }
 
 .title {
+  font-size: 16px;
   background: #e3f4ff;
+  border: 10px solid snow;
+  padding: 10px;
 }
 
 .content {
   background: #e3f4ff;
+  border-bottom: 10px solid snow;
+  border-left: 10px solid snow;
+  border-right: 10px solid snow;
+  padding: 10px;
 }
 
 .button-container {
+  text-align: center;
   background: #e3f4ff;
+  border-left: 10px solid snow;
+  border-bottom: 10px solid snow;
+  border-right: 10px solid snow;
+  padding: 8px 24px 8px 24px;
 }
 
 button {
